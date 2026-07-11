@@ -1,0 +1,351 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e3]:
+    - navigation [ref=e4]:
+      - generic [ref=e5]:
+        - link "logo" [ref=e6] [cursor=pointer]:
+          - /url: /
+          - img "logo" [ref=e7]
+        - list [ref=e9]:
+          - listitem [ref=e10]:
+            - link [ref=e11] [cursor=pointer]:
+              - /url: /
+              - img [ref=e12]
+          - listitem [ref=e14]:
+            - link "Exchanges" [ref=e15] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e16]:
+            - link "Live Streaming" [ref=e17] [cursor=pointer]:
+              - /url: /live-streaming
+          - listitem [ref=e18]:
+            - link "Deals" [ref=e19] [cursor=pointer]:
+              - /url: /deals
+          - listitem [ref=e20]:
+            - link "Trading Tools" [ref=e21] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e22]:
+            - link "Sponsors" [ref=e23] [cursor=pointer]:
+              - /url: /sponsors
+          - listitem [ref=e24]:
+            - link "Blog" [ref=e25] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e26]:
+            - link "About" [ref=e27] [cursor=pointer]:
+              - /url: "#"
+  - main [ref=e28]:
+    - generic [ref=e30]:
+      - generic [ref=e32]:
+        - generic [ref=e34]:
+          - img "Bybit Review 2026 – Best Derivatives Trading Platform?" [ref=e36]
+          - generic [ref=e37]:
+            - link "Exchange Reviews" [ref=e38] [cursor=pointer]:
+              - /url: /exchange-reviews
+            - link "Bybit Review 2026 – Best Derivatives Trading Platform?" [ref=e39] [cursor=pointer]:
+              - /url: /exchange-reviews/bybit-review
+            - generic [ref=e40]:
+              - generic [ref=e41]:
+                - img [ref=e42]
+                - text: May 29, 2026
+              - generic [ref=e44]:
+                - text: by
+                - link "The Moon Show Team" [ref=e46] [cursor=pointer]:
+                  - /url: "#"
+        - generic [ref=e48]:
+          - generic [ref=e49]:
+            - link "Exchange Reviews" [ref=e50] [cursor=pointer]:
+              - /url: /exchange-reviews
+            - heading "Bybit Review 2026 – Best Derivatives Trading Platform?" [level=3] [ref=e51]:
+              - link "Bybit Review 2026 – Best Derivatives Trading Platform?" [ref=e52] [cursor=pointer]:
+                - /url: /exchange-reviews/bybit-review
+            - generic [ref=e53]:
+              - generic [ref=e54]:
+                - img [ref=e55]
+                - text: May 29, 2026
+              - generic [ref=e57]:
+                - text: by
+                - link "The Moon Show Team" [ref=e59] [cursor=pointer]:
+                  - /url: "#"
+          - generic [ref=e60]:
+            - link "Exchange Reviews" [ref=e61] [cursor=pointer]:
+              - /url: /exchange-reviews
+            - 'heading "Binance Exchange Review 2026: The Biggest Exchange, But Is It the Best?" [level=3] [ref=e62]':
+              - 'link "Binance Exchange Review 2026: The Biggest Exchange, But Is It the Best?" [ref=e63] [cursor=pointer]':
+                - /url: /exchange-reviews/binance-review
+            - generic [ref=e64]:
+              - generic [ref=e65]:
+                - img [ref=e66]
+                - text: May 18, 2026
+              - generic [ref=e68]:
+                - text: by
+                - link "The Moon Show Team" [ref=e70] [cursor=pointer]:
+                  - /url: "#"
+          - generic [ref=e71]:
+            - link "Exchange Reviews" [ref=e72] [cursor=pointer]:
+              - /url: /exchange-reviews
+            - 'heading "WEEX Exchange Review 2026: High Leverage, No KYC, But Is It Worth the Trade-Offs?" [level=3] [ref=e73]':
+              - 'link "WEEX Exchange Review 2026: High Leverage, No KYC, But Is It Worth the Trade-Offs?" [ref=e74] [cursor=pointer]':
+                - /url: /exchange-reviews/weex-review
+            - generic [ref=e75]:
+              - generic [ref=e76]:
+                - img [ref=e77]
+                - text: May 15, 2026
+              - generic [ref=e79]:
+                - text: by
+                - link "The Moon Show Team" [ref=e81] [cursor=pointer]:
+                  - /url: "#"
+      - generic [ref=e82]:
+        - img [ref=e84]
+        - generic [ref=e86]: News
+        - text: Articles
+      - generic [ref=e87]:
+        - generic [ref=e88]:
+          - generic [ref=e89]:
+            - generic [ref=e90]:
+              - generic [ref=e92]:
+                - figure [ref=e93]:
+                  - link "XRP Pushes Above $1.10 As Buyers Try to Extend Recovery" [ref=e94] [cursor=pointer]:
+                    - /url: /price-analysis/xrp-pushes-above-1-10-as-buyers-try-to-extend-recovery
+                    - img "XRP Pushes Above $1.10 As Buyers Try to Extend Recovery" [ref=e95]
+                - heading "XRP Pushes Above $1.10 As Buyers Try to Extend Recovery" [level=3] [ref=e96]:
+                  - link "XRP Pushes Above $1.10 As Buyers Try to Extend Recovery" [ref=e97] [cursor=pointer]:
+                    - /url: /price-analysis/xrp-pushes-above-1-10-as-buyers-try-to-extend-recovery
+                - paragraph [ref=e98]: XRP moved above the $1.10 area on July 10 as buyers tried to extend the token’s recovery from l...
+                - generic [ref=e99]:
+                  - link "Price Analysis" [ref=e101] [cursor=pointer]:
+                    - /url: /category/price-analysis
+                  - link "Altcoins Price Forecast" [ref=e103] [cursor=pointer]:
+                    - /url: /category/price-analysis/altcoins-price-forecast
+                  - generic [ref=e104]:
+                    - img [ref=e105]
+                    - text: July 10, 2026
+                  - generic [ref=e107]:
+                    - img [ref=e108]
+                    - text: "11"
+              - generic [ref=e111]:
+                - figure [ref=e112]:
+                  - link "Ethereum Holds Above $1,700 As ETF Inflows Extend While Bitcoin Funds Slip" [ref=e113] [cursor=pointer]:
+                    - /url: /price-analysis/ethereum-holds-above-1-700-as-etf-inflows-extend-while-bitcoin-funds-slip
+                    - img "Ethereum Holds Above $1,700 As ETF Inflows Extend While Bitcoin Funds Slip" [ref=e114]
+                - heading "Ethereum Holds Above $1,700 As ETF Inflows Extend While Bitcoin Funds Slip" [level=3] [ref=e115]:
+                  - link "Ethereum Holds Above $1,700 As ETF Inflows Extend While Bitcoin Funds Slip" [ref=e116] [cursor=pointer]:
+                    - /url: /price-analysis/ethereum-holds-above-1-700-as-etf-inflows-extend-while-bitcoin-funds-slip
+                - paragraph [ref=e117]: Ethereum held above the $1,700 area on July 9 as Ether ETF demand improved while Bitcoin funds ...
+                - generic [ref=e118]:
+                  - link "Price Analysis" [ref=e120] [cursor=pointer]:
+                    - /url: /category/price-analysis
+                  - link "Ethereum Price Forecast" [ref=e122] [cursor=pointer]:
+                    - /url: /category/price-analysis/ethereum-price-forecast
+                  - generic [ref=e123]:
+                    - img [ref=e124]
+                    - text: July 09, 2026
+                  - generic [ref=e126]:
+                    - img [ref=e127]
+                    - text: "9"
+              - generic [ref=e130]:
+                - figure [ref=e131]:
+                  - link "Bitcoin Drops Toward $62K As Iran Selloff Tests Returning ETF Demand" [ref=e132] [cursor=pointer]:
+                    - /url: /price-analysis/bitcoin-drops-toward-62k-as-iran-selloff-tests-returning-etf-demand
+                    - img "Bitcoin Drops Toward $62K As Iran Selloff Tests Returning ETF Demand" [ref=e133]
+                - heading "Bitcoin Drops Toward $62K As Iran Selloff Tests Returning ETF Demand" [level=3] [ref=e134]:
+                  - link "Bitcoin Drops Toward $62K As Iran Selloff Tests Returning ETF Demand" [ref=e135] [cursor=pointer]:
+                    - /url: /price-analysis/bitcoin-drops-toward-62k-as-iran-selloff-tests-returning-etf-demand
+                - paragraph [ref=e136]: Bitcoin slipped toward $62,000 on July 8 as renewed U.S.-Iran tensions triggered a wider risk-o...
+                - generic [ref=e137]:
+                  - link "Price Analysis" [ref=e139] [cursor=pointer]:
+                    - /url: /category/price-analysis
+                  - link "Bitcoin Price Forecast" [ref=e141] [cursor=pointer]:
+                    - /url: /category/price-analysis/bitcoin-price-forecast
+                  - generic [ref=e142]:
+                    - img [ref=e143]
+                    - text: July 08, 2026
+                  - generic [ref=e145]:
+                    - img [ref=e146]
+                    - text: "9"
+              - generic [ref=e149]:
+                - figure [ref=e150]:
+                  - link "AAVE Holds Weekly Gains As Network Growth Hits Strongest Level Since 2021" [ref=e151] [cursor=pointer]:
+                    - /url: /price-analysis/aave-holds-weekly-gains-as-network-growth-hits-strongest-level-since-2021
+                    - img "AAVE Holds Weekly Gains As Network Growth Hits Strongest Level Since 2021" [ref=e152]
+                - heading "AAVE Holds Weekly Gains As Network Growth Hits Strongest Level Since 2021" [level=3] [ref=e153]:
+                  - link "AAVE Holds Weekly Gains As Network Growth Hits Strongest Level Since 2021" [ref=e154] [cursor=pointer]:
+                    - /url: /price-analysis/aave-holds-weekly-gains-as-network-growth-hits-strongest-level-since-2021
+                - paragraph [ref=e155]: AAVE is holding one of the stronger weekly moves among major DeFi tokens as Aave sees a sharp r...
+                - generic [ref=e156]:
+                  - link "Price Analysis" [ref=e158] [cursor=pointer]:
+                    - /url: /category/price-analysis
+                  - link "Altcoins Price Forecast" [ref=e160] [cursor=pointer]:
+                    - /url: /category/price-analysis/altcoins-price-forecast
+                  - generic [ref=e161]:
+                    - img [ref=e162]
+                    - text: July 08, 2026
+                  - generic [ref=e164]:
+                    - img [ref=e165]
+                    - text: "8"
+              - generic [ref=e168]:
+                - figure [ref=e169]:
+                  - link "Sberbank to Launch Crypto Wallet as Russia Opens Regulated Digital Asset Market" [ref=e170] [cursor=pointer]:
+                    - /url: /news/sberbank-to-launch-crypto-wallet-as-russia-opens-regulated-digital-asset-market
+                    - img "Sberbank to Launch Crypto Wallet as Russia Opens Regulated Digital Asset Market" [ref=e171]
+                - heading "Sberbank to Launch Crypto Wallet as Russia Opens Regulated Digital Asset Market" [level=3] [ref=e172]:
+                  - link "Sberbank to Launch Crypto Wallet as Russia Opens Regulated Digital Asset Market" [ref=e173] [cursor=pointer]:
+                    - /url: /news/sberbank-to-launch-crypto-wallet-as-russia-opens-regulated-digital-asset-market
+                - paragraph [ref=e174]: Sberbank plans a crypto wallet launch as Russia opens its regulated digital asset market under ...
+                - generic [ref=e175]:
+                  - link "News" [ref=e177] [cursor=pointer]:
+                    - /url: /category/news
+                  - generic [ref=e178]:
+                    - img [ref=e179]
+                    - text: July 06, 2026
+                  - generic [ref=e181]:
+                    - img [ref=e182]
+                    - text: "12"
+              - generic [ref=e185]:
+                - figure [ref=e186]:
+                  - 'link "Ripple’s MiCA License: What It Means for Europe and XRP" [ref=e187] [cursor=pointer]':
+                    - /url: /news/ripples-mica-license
+                    - 'img "Ripple’s MiCA License: What It Means for Europe and XRP" [ref=e188]'
+                - 'heading "Ripple’s MiCA License: What It Means for Europe and XRP" [level=3] [ref=e189]':
+                  - 'link "Ripple’s MiCA License: What It Means for Europe and XRP" [ref=e190] [cursor=pointer]':
+                    - /url: /news/ripples-mica-license
+                - paragraph [ref=e191]: Ripple has secured a MiCA license in Luxembourg. Read our blog to understand why it matters for...
+                - generic [ref=e192]:
+                  - link "News" [ref=e194] [cursor=pointer]:
+                    - /url: /category/news
+                  - link "Ripple" [ref=e196] [cursor=pointer]:
+                    - /url: /category/news/ripple
+                  - generic [ref=e197]:
+                    - img [ref=e198]
+                    - text: July 07, 2026
+                  - generic [ref=e200]:
+                    - img [ref=e201]
+                    - text: "29"
+            - link "View More" [ref=e204] [cursor=pointer]:
+              - /url: /blog
+          - generic [ref=e206]:
+            - heading "Latest Videos" [level=2] [ref=e207]
+            - separator [ref=e208]
+          - img [ref=e212]
+        - generic [ref=e215]:
+          - complementary [ref=e216]:
+            - generic [ref=e217]:
+              - generic [ref=e218]: Top Deals
+              - img [ref=e222]
+          - complementary [ref=e225]:
+            - generic [ref=e226]:
+              - generic [ref=e227]: Social Media
+              - list [ref=e229]:
+                - listitem [ref=e230]:
+                  - link "Visit us on Facebook" [ref=e231] [cursor=pointer]:
+                    - /url: https://www.facebook.com/themoon/
+                    - img [ref=e232]
+                - listitem [ref=e234]:
+                  - link "Visit us on Youtube" [ref=e235] [cursor=pointer]:
+                    - /url: https://www.youtube.com/@TheMoon
+                    - img [ref=e236]
+                - listitem [ref=e238]:
+                  - link "Visit us on Instagram" [ref=e239] [cursor=pointer]:
+                    - /url: https://www.instagram.com/themoon
+                    - img [ref=e240]
+                - listitem [ref=e242]:
+                  - link "Visit us on X" [ref=e243] [cursor=pointer]:
+                    - /url: https://x.com/TheMoonShow
+                    - img [ref=e244]
+          - complementary [ref=e246]:
+            - generic [ref=e248]:
+              - generic [ref=e249]: Subscribe
+              - paragraph [ref=e250]: Get our latest updates and announcements in your inbox.
+              - textbox "Enter your email" [ref=e252]
+              - button "Submit" [ref=e253]
+          - complementary [ref=e254]:
+            - generic [ref=e255]:
+              - generic [ref=e257]: Popular Reviews
+              - generic [ref=e258]: No posts available
+  - contentinfo [ref=e260]:
+    - generic [ref=e262]:
+      - generic [ref=e263]:
+        - generic [ref=e264]:
+          - link "logo" [ref=e265] [cursor=pointer]:
+            - /url: /
+            - img "logo" [ref=e266]
+          - generic [ref=e267]:
+            - heading "Subscribe to our newsletter" [level=4] [ref=e268]
+            - generic [ref=e269]:
+              - textbox "Enter your email" [ref=e270]
+              - button "Submit" [ref=e271]
+        - generic [ref=e274]:
+          - list [ref=e277]:
+            - listitem [ref=e278]: Exchanges
+            - listitem [ref=e279]:
+              - link "Reviews" [ref=e280] [cursor=pointer]:
+                - /url: /exchange-reviews
+            - listitem [ref=e281]:
+              - link "Tutorials" [ref=e282] [cursor=pointer]:
+                - /url: /exchange-tutorials
+            - listitem [ref=e283]:
+              - link "App Tutorials" [ref=e284] [cursor=pointer]:
+                - /url: /app-tutorials
+            - listitem [ref=e285]:
+              - link "Top Listing" [ref=e286] [cursor=pointer]:
+                - /url: /exchange-listing
+            - listitem [ref=e287]:
+              - link "Comparison" [ref=e288] [cursor=pointer]:
+                - /url: /exchange-comparison
+          - generic [ref=e290]:
+            - list [ref=e291]:
+              - listitem [ref=e292]: VPNs
+              - listitem [ref=e293]:
+                - link "Reviews" [ref=e294] [cursor=pointer]:
+                  - /url: /vpn-reviews
+              - listitem [ref=e295]:
+                - link "Top Listing" [ref=e296] [cursor=pointer]:
+                  - /url: /vpn-listing
+              - listitem [ref=e297]:
+                - link "Comparison" [ref=e298] [cursor=pointer]:
+                  - /url: /vpn-comparison
+            - list [ref=e299]:
+              - listitem [ref=e300]: Wallets
+              - listitem [ref=e301]:
+                - link "Reviews" [ref=e302] [cursor=pointer]:
+                  - /url: /wallet-reviews
+              - listitem [ref=e303]:
+                - link "Top Listing" [ref=e304] [cursor=pointer]:
+                  - /url: /wallet-listing
+              - listitem [ref=e305]:
+                - link "Comparison" [ref=e306] [cursor=pointer]:
+                  - /url: /wallet-comparison
+          - generic [ref=e308]:
+            - list [ref=e309]:
+              - listitem [ref=e310]:
+                - link "Live Streaming" [ref=e311] [cursor=pointer]:
+                  - /url: /live-streaming
+              - listitem [ref=e312]:
+                - link "Sponsors" [ref=e313] [cursor=pointer]:
+                  - /url: /sponsors
+              - listitem [ref=e314]:
+                - link "Blogs" [ref=e315] [cursor=pointer]:
+                  - /url: /blog
+            - list [ref=e316]:
+              - listitem [ref=e317]:
+                - link "Deals" [ref=e318] [cursor=pointer]:
+                  - /url: /deals
+          - list [ref=e321]:
+            - listitem [ref=e322]: About
+            - listitem [ref=e323]:
+              - link "About Us" [ref=e324] [cursor=pointer]:
+                - /url: /about-us
+            - listitem [ref=e325]:
+              - link "Contact Us" [ref=e326] [cursor=pointer]:
+                - /url: /contact-us
+            - listitem [ref=e327]:
+              - link "Social" [ref=e328] [cursor=pointer]:
+                - /url: /social
+            - listitem [ref=e329]:
+              - link "Disclaimer" [ref=e330] [cursor=pointer]:
+                - /url: /disclaimer
+            - listitem [ref=e331]:
+              - link "Privacy Policy" [ref=e332] [cursor=pointer]:
+                - /url: /privacy-policy
+            - listitem [ref=e333]:
+              - link "Terms and Conditions" [ref=e334] [cursor=pointer]:
+                - /url: /terms-and-conditions
+      - generic [ref=e338]: © 2026 The Moon Show Copyrights. All Rights Reserved.
+  - alert [ref=e339]

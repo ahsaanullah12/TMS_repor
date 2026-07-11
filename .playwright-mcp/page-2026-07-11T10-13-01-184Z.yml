@@ -1,0 +1,230 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e3]:
+    - navigation [ref=e4]:
+      - generic [ref=e5]:
+        - link "logo" [ref=e6] [cursor=pointer]:
+          - /url: /
+          - img "logo" [ref=e7]
+        - list [ref=e9]:
+          - listitem [ref=e10]:
+            - link [ref=e11] [cursor=pointer]:
+              - /url: /
+              - img [ref=e12]
+          - listitem [ref=e14]:
+            - link "Exchanges" [ref=e15] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e16]:
+            - link "Live Streaming" [ref=e17] [cursor=pointer]:
+              - /url: /live-streaming
+          - listitem [ref=e18]:
+            - link "Deals" [ref=e19] [cursor=pointer]:
+              - /url: /deals
+          - listitem [ref=e20]:
+            - link "Trading Tools" [ref=e21] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e22]:
+            - link "Sponsors" [ref=e23] [cursor=pointer]:
+              - /url: /sponsors
+          - listitem [ref=e24]:
+            - link "Blog" [ref=e25] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e26]:
+            - link "About" [ref=e27] [cursor=pointer]:
+              - /url: "#"
+  - main [ref=e28]:
+    - generic [ref=e30]:
+      - generic [ref=e32]:
+        - generic [ref=e34]:
+          - img "Bybit Review 2026 – Best Derivatives Trading Platform?" [ref=e36]
+          - generic [ref=e37]:
+            - link "Exchange Reviews" [ref=e38] [cursor=pointer]:
+              - /url: /exchange-reviews
+            - link "Bybit Review 2026 – Best Derivatives Trading Platform?" [ref=e39] [cursor=pointer]:
+              - /url: /exchange-reviews/bybit-review
+            - generic [ref=e40]:
+              - generic [ref=e41]:
+                - img [ref=e42]
+                - text: May 29, 2026
+              - generic [ref=e44]:
+                - text: by
+                - link "The Moon Show Team" [ref=e46] [cursor=pointer]:
+                  - /url: "#"
+        - generic [ref=e48]:
+          - generic [ref=e49]:
+            - link "Exchange Reviews" [ref=e50] [cursor=pointer]:
+              - /url: /exchange-reviews
+            - heading "Bybit Review 2026 – Best Derivatives Trading Platform?" [level=3] [ref=e51]:
+              - link "Bybit Review 2026 – Best Derivatives Trading Platform?" [ref=e52] [cursor=pointer]:
+                - /url: /exchange-reviews/bybit-review
+            - generic [ref=e53]:
+              - generic [ref=e54]:
+                - img [ref=e55]
+                - text: May 29, 2026
+              - generic [ref=e57]:
+                - text: by
+                - link "The Moon Show Team" [ref=e59] [cursor=pointer]:
+                  - /url: "#"
+          - generic [ref=e60]:
+            - link "Exchange Reviews" [ref=e61] [cursor=pointer]:
+              - /url: /exchange-reviews
+            - 'heading "Binance Exchange Review 2026: The Biggest Exchange, But Is It the Best?" [level=3] [ref=e62]':
+              - 'link "Binance Exchange Review 2026: The Biggest Exchange, But Is It the Best?" [ref=e63] [cursor=pointer]':
+                - /url: /exchange-reviews/binance-review
+            - generic [ref=e64]:
+              - generic [ref=e65]:
+                - img [ref=e66]
+                - text: May 18, 2026
+              - generic [ref=e68]:
+                - text: by
+                - link "The Moon Show Team" [ref=e70] [cursor=pointer]:
+                  - /url: "#"
+          - generic [ref=e71]:
+            - link "Exchange Reviews" [ref=e72] [cursor=pointer]:
+              - /url: /exchange-reviews
+            - 'heading "WEEX Exchange Review 2026: High Leverage, No KYC, But Is It Worth the Trade-Offs?" [level=3] [ref=e73]':
+              - 'link "WEEX Exchange Review 2026: High Leverage, No KYC, But Is It Worth the Trade-Offs?" [ref=e74] [cursor=pointer]':
+                - /url: /exchange-reviews/weex-review
+            - generic [ref=e75]:
+              - generic [ref=e76]:
+                - img [ref=e77]
+                - text: May 15, 2026
+              - generic [ref=e79]:
+                - text: by
+                - link "The Moon Show Team" [ref=e81] [cursor=pointer]:
+                  - /url: "#"
+      - generic [ref=e82]:
+        - img [ref=e84]
+        - generic [ref=e86]: News
+        - text: Articles
+      - generic [ref=e87]:
+        - generic [ref=e88]:
+          - img [ref=e92]
+          - generic [ref=e96]:
+            - heading "Latest Videos" [level=2] [ref=e97]
+            - separator [ref=e98]
+          - img [ref=e102]
+        - generic [ref=e105]:
+          - complementary [ref=e106]:
+            - generic [ref=e107]:
+              - generic [ref=e108]: Top Deals
+              - img [ref=e112]
+          - complementary [ref=e115]:
+            - generic [ref=e116]:
+              - generic [ref=e117]: Social Media
+              - list [ref=e119]:
+                - listitem [ref=e120]:
+                  - link "Visit us on Facebook" [ref=e121] [cursor=pointer]:
+                    - /url: https://www.facebook.com/themoon/
+                    - img [ref=e122]
+                - listitem [ref=e124]:
+                  - link "Visit us on Youtube" [ref=e125] [cursor=pointer]:
+                    - /url: https://www.youtube.com/@TheMoon
+                    - img [ref=e126]
+                - listitem [ref=e128]:
+                  - link "Visit us on Instagram" [ref=e129] [cursor=pointer]:
+                    - /url: https://www.instagram.com/themoon
+                    - img [ref=e130]
+                - listitem [ref=e132]:
+                  - link "Visit us on X" [ref=e133] [cursor=pointer]:
+                    - /url: https://x.com/TheMoonShow
+                    - img [ref=e134]
+          - complementary [ref=e136]:
+            - generic [ref=e138]:
+              - generic [ref=e139]: Subscribe
+              - paragraph [ref=e140]: Get our latest updates and announcements in your inbox.
+              - textbox "Enter your email" [ref=e142]
+              - button "Submit" [ref=e143]
+          - complementary [ref=e144]:
+            - generic [ref=e145]:
+              - generic [ref=e147]: Popular Reviews
+              - generic [ref=e148]: No posts available
+  - contentinfo [ref=e150]:
+    - generic [ref=e152]:
+      - generic [ref=e153]:
+        - generic [ref=e154]:
+          - link "logo" [ref=e155] [cursor=pointer]:
+            - /url: /
+            - img "logo" [ref=e156]
+          - generic [ref=e157]:
+            - heading "Subscribe to our newsletter" [level=4] [ref=e158]
+            - generic [ref=e159]:
+              - textbox "Enter your email" [ref=e160]
+              - button "Submit" [ref=e161]
+        - generic [ref=e164]:
+          - list [ref=e167]:
+            - listitem [ref=e168]: Exchanges
+            - listitem [ref=e169]:
+              - link "Reviews" [ref=e170] [cursor=pointer]:
+                - /url: /exchange-reviews
+            - listitem [ref=e171]:
+              - link "Tutorials" [ref=e172] [cursor=pointer]:
+                - /url: /exchange-tutorials
+            - listitem [ref=e173]:
+              - link "App Tutorials" [ref=e174] [cursor=pointer]:
+                - /url: /app-tutorials
+            - listitem [ref=e175]:
+              - link "Top Listing" [ref=e176] [cursor=pointer]:
+                - /url: /exchange-listing
+            - listitem [ref=e177]:
+              - link "Comparison" [ref=e178] [cursor=pointer]:
+                - /url: /exchange-comparison
+          - generic [ref=e180]:
+            - list [ref=e181]:
+              - listitem [ref=e182]: VPNs
+              - listitem [ref=e183]:
+                - link "Reviews" [ref=e184] [cursor=pointer]:
+                  - /url: /vpn-reviews
+              - listitem [ref=e185]:
+                - link "Top Listing" [ref=e186] [cursor=pointer]:
+                  - /url: /vpn-listing
+              - listitem [ref=e187]:
+                - link "Comparison" [ref=e188] [cursor=pointer]:
+                  - /url: /vpn-comparison
+            - list [ref=e189]:
+              - listitem [ref=e190]: Wallets
+              - listitem [ref=e191]:
+                - link "Reviews" [ref=e192] [cursor=pointer]:
+                  - /url: /wallet-reviews
+              - listitem [ref=e193]:
+                - link "Top Listing" [ref=e194] [cursor=pointer]:
+                  - /url: /wallet-listing
+              - listitem [ref=e195]:
+                - link "Comparison" [ref=e196] [cursor=pointer]:
+                  - /url: /wallet-comparison
+          - generic [ref=e198]:
+            - list [ref=e199]:
+              - listitem [ref=e200]:
+                - link "Live Streaming" [ref=e201] [cursor=pointer]:
+                  - /url: /live-streaming
+              - listitem [ref=e202]:
+                - link "Sponsors" [ref=e203] [cursor=pointer]:
+                  - /url: /sponsors
+              - listitem [ref=e204]:
+                - link "Blogs" [ref=e205] [cursor=pointer]:
+                  - /url: /blog
+            - list [ref=e206]:
+              - listitem [ref=e207]:
+                - link "Deals" [ref=e208] [cursor=pointer]:
+                  - /url: /deals
+          - list [ref=e211]:
+            - listitem [ref=e212]: About
+            - listitem [ref=e213]:
+              - link "About Us" [ref=e214] [cursor=pointer]:
+                - /url: /about-us
+            - listitem [ref=e215]:
+              - link "Contact Us" [ref=e216] [cursor=pointer]:
+                - /url: /contact-us
+            - listitem [ref=e217]:
+              - link "Social" [ref=e218] [cursor=pointer]:
+                - /url: /social
+            - listitem [ref=e219]:
+              - link "Disclaimer" [ref=e220] [cursor=pointer]:
+                - /url: /disclaimer
+            - listitem [ref=e221]:
+              - link "Privacy Policy" [ref=e222] [cursor=pointer]:
+                - /url: /privacy-policy
+            - listitem [ref=e223]:
+              - link "Terms and Conditions" [ref=e224] [cursor=pointer]:
+                - /url: /terms-and-conditions
+      - generic [ref=e228]: © 2026 The Moon Show Copyrights. All Rights Reserved.
+  - alert [ref=e229]
