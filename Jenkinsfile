@@ -31,15 +31,21 @@ pipeline {
             }
         }
 
-        stage('Publish Playwright Report') {
+        stage('Generate Allure Report') {
+            steps {
+                sh 'allure generate allure-results --clean -o allure-report'
+            }
+        }
+
+        stage('Publish HTML Report') {
             steps {
                 publishHTML(target: [
-                    allowMissing: true,
-                    alwaysLinkToLastBuild: true,
-                    keepAll: true,
-                    reportDir: 'playwright-report',
+                    reportName: 'Allure Report',
+                    reportDir: 'allure-report',
                     reportFiles: 'index.html',
-                    reportName: 'Playwright Report'
+                    keepAll: true,
+                    alwaysLinkToLastBuild: true,
+                    allowMissing: false
                 ])
             }
         }
