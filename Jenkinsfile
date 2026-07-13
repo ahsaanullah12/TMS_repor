@@ -1,5 +1,4 @@
 pipeline {
-
     agent any
 
     tools {
@@ -20,7 +19,7 @@ pipeline {
             }
         }
 
-        stage('Install Playwright') {
+        stage('Install Playwright Browsers') {
             steps {
                 sh 'npx playwright install'
             }
@@ -29,16 +28,6 @@ pipeline {
         stage('Run Tests') {
             steps {
                 sh 'npx playwright test'
-            }
-        }
-
-        stage('Report') {
-            steps {
-                publishHTML([
-                    reportDir: 'playwright-report',
-                    reportFiles: 'index.html',
-                    reportName: 'Playwright Report'
-                ])
             }
         }
     }
