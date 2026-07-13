@@ -31,21 +31,14 @@ pipeline {
             }
         }
 
-        stage('Generate Allure Report') {
+        stage('Publish Allure Report') {
             steps {
-                sh 'allure generate allure-results --clean -o allure-report'
-            }
-        }
-
-        stage('Publish HTML Report') {
-            steps {
-                publishHTML(target: [
-                    reportName: 'Allure Report',
-                    reportDir: 'allure-report',
-                    reportFiles: 'index.html',
-                    keepAll: true,
-                    alwaysLinkToLastBuild: true,
-                    allowMissing: false
+                allure([
+                    includeProperties: false,
+                    jdk: '',
+                    results: [
+                        [path: 'allure-results']
+                    ]
                 ])
             }
         }
