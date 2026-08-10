@@ -1,12 +1,15 @@
 // @ts-check
 import { test, expect } from '@playwright/test';
+import CommonPage from './commonPage.js';
 
 // Define a group of related tests for the homepage.
 test.describe('Homepage', () => {
   // This test verifies that the main homepage loads and renders the key page sections.
   test('loads core homepage sections', async ({ page }) => {
+    const commonPage = new CommonPage(page);
+
     // Navigate to the homepage URL and wait until the DOM content is loaded.
-    await page.goto('https://themoonshow.com/', { waitUntil: 'domcontentloaded' });
+    await commonPage.openHomePage();
 
     // Verify the page title contains the expected site name.
     await expect(page).toHaveTitle(/The Moon Show/i);

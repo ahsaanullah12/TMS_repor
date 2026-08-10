@@ -1,0 +1,3 @@
+[  -12907ms] [LOG] CSS files injected: [https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css, https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css, https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css, https://cdn.themoonshow.com/css/design.css?v=1.5, https://cdn.themoonshow.com/css/globals.css?v=1.5] @ https://themoonshow.com/:209
+[   -9616ms] [LOG] ======> CSS FILES IMPLEMENTED @ :5
+[   -9610ms] [LOG] JSHandle@<script async="" id="gtm-script" src="https://www.googletagmanager.com/gtm.js?id=GTM-N7C7QC5S" data-src="https://www.googletagmanager.com/gtm.js?id=GTM-N7C7QC5S"></script> @ :11

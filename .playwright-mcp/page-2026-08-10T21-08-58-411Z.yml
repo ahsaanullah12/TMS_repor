@@ -1,0 +1,172 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e3]:
+    - navigation [ref=e4]:
+      - generic [ref=e5]:
+        - link "logo" [ref=e6] [cursor=pointer]:
+          - /url: /
+          - img "logo" [ref=e7]
+        - list [ref=e9]:
+          - listitem [ref=e10]:
+            - link [ref=e11] [cursor=pointer]:
+              - /url: /
+              - img [ref=e12]
+          - listitem [ref=e14]:
+            - link "Exchanges" [ref=e15] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e16]:
+            - link "Live Streaming" [ref=e17] [cursor=pointer]:
+              - /url: /live-streaming
+          - listitem [ref=e18]:
+            - link "Deals" [ref=e19] [cursor=pointer]:
+              - /url: /deals
+          - listitem [ref=e20]:
+            - link "Trading Tools" [ref=e21] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e22]:
+            - link "Sponsors" [ref=e23] [cursor=pointer]:
+              - /url: /sponsors
+          - listitem [ref=e24]:
+            - link "Blog" [ref=e25] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e26]:
+            - link "About" [ref=e27] [cursor=pointer]:
+              - /url: "#"
+  - main [ref=e28]:
+    - navigation "Breadcrumb" [ref=e31]:
+      - list [ref=e32]:
+        - listitem [ref=e33]:
+          - link "The Moon Show" [ref=e34] [cursor=pointer]:
+            - /url: /
+        - listitem [ref=e35]: / Contact Us
+    - generic [ref=e36]:
+      - heading "Contact Us" [level=1] [ref=e37]
+      - paragraph [ref=e38]: Any question or remarks? Just write us a message!
+      - generic [ref=e39]:
+        - generic [ref=e41]:
+          - heading "Contact Information" [level=2] [ref=e42]
+          - list [ref=e43]:
+            - listitem [ref=e44]:
+              - img [ref=e45]
+              - text: marketing@themoonshow.com
+          - generic [ref=e47]:
+            - link [ref=e48] [cursor=pointer]:
+              - /url: https://www.facebook.com/themoon/
+              - img [ref=e49]
+            - link [ref=e51] [cursor=pointer]:
+              - /url: https://www.youtube.com/@TheMoon
+              - img [ref=e52]
+            - link [ref=e54] [cursor=pointer]:
+              - /url: https://www.instagram.com/themoon
+              - img [ref=e55]
+            - link [ref=e57] [cursor=pointer]:
+              - /url: https://x.com/TheMoonShow
+              - img [ref=e58]
+        - generic [ref=e63]:
+          - textbox "First Name*" [ref=e65]
+          - textbox "Last Name*" [ref=e67]
+          - textbox "Email*" [ref=e69]
+          - textbox "Phone Number*" [ref=e71]
+          - generic [ref=e72]:
+            - generic [ref=e73]: Select Subject?
+            - generic [ref=e74]:
+              - generic [ref=e75]:
+                - radio "General Inquiry" [ref=e76]
+                - text: General Inquiry
+              - generic [ref=e77]:
+                - radio "Sponsorship" [ref=e78]
+                - text: Sponsorship
+              - generic [ref=e79]:
+                - radio "Collaboration" [ref=e80]
+                - text: Collaboration
+          - textbox "Message" [ref=e82]
+          - button "Send Message" [ref=e84]
+  - contentinfo [ref=e86]:
+    - generic [ref=e88]:
+      - generic [ref=e89]:
+        - generic [ref=e90]:
+          - link "logo" [ref=e91] [cursor=pointer]:
+            - /url: /
+            - img "logo" [ref=e92]
+          - generic [ref=e93]:
+            - heading "Subscribe to our newsletter" [level=4] [ref=e94]
+            - generic [ref=e95]:
+              - textbox "Enter your email" [ref=e96]
+              - button "Submit" [ref=e97]
+        - generic [ref=e100]:
+          - list [ref=e103]:
+            - listitem [ref=e104]: Exchanges
+            - listitem [ref=e105]:
+              - link "Reviews" [ref=e106] [cursor=pointer]:
+                - /url: /exchange-reviews
+            - listitem [ref=e107]:
+              - link "Tutorials" [ref=e108] [cursor=pointer]:
+                - /url: /exchange-tutorials
+            - listitem [ref=e109]:
+              - link "App Tutorials" [ref=e110] [cursor=pointer]:
+                - /url: /app-tutorials
+            - listitem [ref=e111]:
+              - link "Top Listing" [ref=e112] [cursor=pointer]:
+                - /url: /exchange-listing
+            - listitem [ref=e113]:
+              - link "Comparison" [ref=e114] [cursor=pointer]:
+                - /url: /exchange-comparison
+          - generic [ref=e116]:
+            - list [ref=e117]:
+              - listitem [ref=e118]: VPNs
+              - listitem [ref=e119]:
+                - link "Reviews" [ref=e120] [cursor=pointer]:
+                  - /url: /vpn-reviews
+              - listitem [ref=e121]:
+                - link "Top Listing" [ref=e122] [cursor=pointer]:
+                  - /url: /vpn-listing
+              - listitem [ref=e123]:
+                - link "Comparison" [ref=e124] [cursor=pointer]:
+                  - /url: /vpn-comparison
+            - list [ref=e125]:
+              - listitem [ref=e126]: Wallets
+              - listitem [ref=e127]:
+                - link "Reviews" [ref=e128] [cursor=pointer]:
+                  - /url: /wallet-reviews
+              - listitem [ref=e129]:
+                - link "Top Listing" [ref=e130] [cursor=pointer]:
+                  - /url: /wallet-listing
+              - listitem [ref=e131]:
+                - link "Comparison" [ref=e132] [cursor=pointer]:
+                  - /url: /wallet-comparison
+          - generic [ref=e134]:
+            - list [ref=e135]:
+              - listitem [ref=e136]:
+                - link "Live Streaming" [ref=e137] [cursor=pointer]:
+                  - /url: /live-streaming
+              - listitem [ref=e138]:
+                - link "Sponsors" [ref=e139] [cursor=pointer]:
+                  - /url: /sponsors
+              - listitem [ref=e140]:
+                - link "Blogs" [ref=e141] [cursor=pointer]:
+                  - /url: /blog
+            - list [ref=e142]:
+              - listitem [ref=e143]:
+                - link "Deals" [ref=e144] [cursor=pointer]:
+                  - /url: /deals
+          - list [ref=e147]:
+            - listitem [ref=e148]: About
+            - listitem [ref=e149]:
+              - link "About Us" [ref=e150] [cursor=pointer]:
+                - /url: /about-us
+            - listitem [ref=e151]:
+              - link "Contact Us" [ref=e152] [cursor=pointer]:
+                - /url: /contact-us
+            - listitem [ref=e153]:
+              - link "Social" [ref=e154] [cursor=pointer]:
+                - /url: /social
+            - listitem [ref=e155]:
+              - link "Disclaimer" [ref=e156] [cursor=pointer]:
+                - /url: /disclaimer
+            - listitem [ref=e157]:
+              - link "Privacy Policy" [ref=e158] [cursor=pointer]:
+                - /url: /privacy-policy
+            - listitem [ref=e159]:
+              - link "Terms and Conditions" [ref=e160] [cursor=pointer]:
+                - /url: /terms-and-conditions
+      - generic [ref=e164]: © 2026 The Moon Show Copyrights. All Rights Reserved.
+  - alert [ref=e165]
